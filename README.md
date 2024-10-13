@@ -14,7 +14,7 @@ A brick breaker about a misguided hunting dog who is a very good boy. Due Oct 12
 
 ## References
 * Dog sound effects, "brick" hit sound, opening forest ambience, ending fireplace ambience, and ending rain ambience from Pixabay
-* Music Selections from the Free Music Archive, by Squire Tuck:
+* Music Selections by Squire Tuck via the Free Music Archive
   * Music for level one - The Quiet Time Before First Light
   * Music for level two - Unfinished Business
   * Music for level three - A Journey Into The Great Unknown
